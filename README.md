@@ -27,3 +27,12 @@ Below are the details of the Datasets used for the Dashboard:
 - **Android Ver :**	The minimum Android version required to run the app.
 
 ## Data Cleaning & ETL
+In this project, a comprehensive data cleaning and ETL (Extract, Transform, Load) process was applied to ensure data accuracy and consistency for analysis. Starting with removing duplicates and handling missing values, we standardized key columns such as app size, ratings, and installs. Additionally, we converted categorical variables (like app size categories and Android versions) to more usable formats, facilitating better analysis.
+
+The ETL process involved transforming raw data into structured formats, categorizing app attributes, and applying necessary conversions. These steps helped prepare the dataset, making it ready for effective analysis and visualization, leading to meaningful insights into app performance on the Play Store.
+
+## Dashboard
+<p align="center">
+<img width="638" alt="Dashboard" src="https://github.com/user-attachments/assets/c42b8ee5-dea4-4ab0-8507-f3a5e8032d69">
+</p>
+
