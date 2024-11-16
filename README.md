@@ -33,6 +33,26 @@ The ETL process involved transforming raw data into structured formats, categori
 
 ## Dashboard
 <p align="center">
-<img width="638" alt="Dashboard" src="https://github.com/user-attachments/assets/c42b8ee5-dea4-4ab0-8507-f3a5e8032d69">
+<img width="638" alt="Dashboard" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Dashboard.png">
 </p>
-
+<p align="center">
+<img width="638" alt="Question 1" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%201.png">
+</p>
+<p align="center">
+<img width="638" alt="Question 2" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%202.png">
+</p>
+<p align="center">
+<img width="638" alt="Question 3" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%203.png">
+</p>
+<p align="center">
+<img width="638" alt="Question 4" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%204.png">
+</p>
+<p align="center">
+<img width="638" alt="Question 5" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%205.png">
+</p>
+<p align="center">
+<img width="638" alt="Question 6" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%206.png">
+</p>
+<p align="center">
+<img width="638" alt="Question 7" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%207.png">
+</p>
