@@ -8,7 +8,8 @@ This project aims to provide actionable insights for developers and stakeholders
 ## Problem Statement
 The Play Store has a diverse ecosystem of applications, ranging from games to productivity tools. Understanding what drives an app's success can provide valuable insights for developers, marketers, and decision-makers looking to optimize their offerings.
 
-[Problem Statement Questions]()
+[Play Store Problem Statement Questions](https://github.com/user-attachments/files/17783714/Play.Store.Problem.Statement.1.docx)
+
 ## Dataset
 
 Below are the details of the Datasets used for the Dashboard:
@@ -16,10 +17,10 @@ Below are the details of the Datasets used for the Dashboard:
 - **Category :** The category to which the app belongs (e.g., ART_AND_DESIGN, GAME).
 - **Rating :**	The user rating of the app on a scale from 1 to 5.
 - **Reviews :**	The number of user reviews for the app.
-- **Size :**	The size of the app in megabytes (MB) or kilobytes (KB).
+- **Size :**	The app size is in megabytes (MB) or kilobytes (KB).
 - **Installs :**	The number of installs/downloads of the app (e.g., 10,000+).
 - **Type :** Indicates whether the app is free or paid.
-- **Price :**	The price of the app in USD, if it is a paid app.
+- **Price :**	The app's price is in USD if paid.
 - **Content Rating :**	The target audience for the app (e.g., Everyone, Teen, Mature 17+).
 - **Genres :**	The genres associated with the app (e.g., Art & Design, Creativity).
 - **Last Updated :**	The date when the app was last updated.
@@ -27,7 +28,7 @@ Below are the details of the Datasets used for the Dashboard:
 - **Android Ver :**	The minimum Android version required to run the app.
 
 ## Data Cleaning & ETL
-In this project, a comprehensive data cleaning and ETL (Extract, Transform, Load) process was applied to ensure data accuracy and consistency for analysis. Starting with removing duplicates and handling missing values, we standardized key columns such as app size, ratings, and installs. Additionally, we converted categorical variables (like app size categories and Android versions) to more usable formats, facilitating better analysis.
+In this project, a comprehensive data cleaning and ETL (Extract, Transform, Load) process was applied to ensure data accuracy and consistency for analysis. We standardized key columns such as app size, ratings, and installs by removing duplicates and handling missing values. Additionally, we converted categorical variables (like app size categories and Android versions) to more usable formats, facilitating better analysis.
 
 The ETL process involved transforming raw data into structured formats, categorizing app attributes, and applying necessary conversions. These steps helped prepare the dataset, making it ready for effective analysis and visualization, leading to meaningful insights into app performance on the Play Store.
 
