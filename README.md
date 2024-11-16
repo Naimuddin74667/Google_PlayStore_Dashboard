@@ -36,24 +36,113 @@ The ETL process involved transforming raw data into structured formats, categori
 <p align="center">
 <img width="638" alt="Dashboard" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Dashboard.png">
 </p>
-<p align="center">
-<img width="638" alt="Question 1" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%201.png">
-</p>
-<p align="center">
-<img width="638" alt="Question 2" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%202.png">
-</p>
+
+### Key Observations from the Dashboard
+**1. Top Categories by Installations**
+- The Family category leads with the highest installations (~2K), followed by Games (1.1K) and Tools (800).
+
+**2. Willingness to Pay for Apps**
+- Users are most willing to pay for Medical apps (24% paid) and Personalization apps (21%). Categories like Weather and Books & Reference also show moderate willingness.
+On the other hand, users show minimal interest in paying for apps in categories such as Beauty, Comics, News & Magazines, Social, and Shopping.
+
+**3. Dominant Primary Genres**
+- The most common primary genres include Tools, Entertainment, and Education, followed by Medical, Business, Productivity, and Sports in descending order.
+**4. Android Version Compatibility**
+- A majority (64%) of apps support Android 4+, while 12.5% are compatible with Android 2+, and another 12.5% vary by device.
+
+**5. Growth in App Releases**
+- App releases began to rise significantly in 2014, with a sharp increase post-2017, marking a period of rapid growth in the Play Store.
+
+**6. App Size Distribution**
+- Around 36% of apps fall into the Medium size category, while 15% have sizes that vary by device.
+
+**7. Installations by Content Rating**
+- All Ages content dominates installations, followed by apps rated for Teenagers and Mature (17+) audiences.
+Categories like Kids, Adults, and Unrated apps have the lowest installation counts.
+
+## App Size Impact
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- Paragraph on the left side (40% width) -->
+    <td style="width: 40%; vertical-align: top; padding-right: 10px;">
+      <p>
+        - The <strong>Family</strong> category leads with the highest installations, contributing approximately <strong>18%</strong> of total installs, followed by <strong>Games</strong> (10.5%) and <strong>Tools</strong> (8%).<br>
+        - Categories like <strong>Medical</strong> and <strong>Business</strong> also show significant numbers, while other categories contribute smaller shares.<br>
+        - A similar trend is observed in the number of reviews, with the <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> categories receiving the most user feedback.
+      </p>
+    </td>
+    <!-- Image on the right side (60% width) -->
+    <td style="width: 60%; text-align: center;">
+      <img style="width: 100%; height: auto; object-fit: cover;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%201.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+## Popular App Categories
+<table>
+  <tr>
+    <td>
+      <p>
+        - The <strong>Family</strong> category leads with the highest installations, contributing approximately <strong>18%</strong> of total installs, followed by <strong>Games</strong> (10.5%) and <strong>Tools</strong> (8%). <br>
+        - Categories like <strong>Medical</strong> and <strong>Business</strong> also show significant numbers, while other categories contribute smaller shares. <br>
+        - A similar trend is observed in the number of reviews, with the <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> categories receiving the most user feedback.
+      </p>
+    </td>
+    <td>
+      <img style="max-width: 800px; height: auto;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%202.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+  </tr>
+</table>
+
+## Free Vs Paid Apps
 <p align="center">
 <img width="638" alt="Question 3" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%203.png">
 </p>
+
+## Content Types
 <p align="center">
 <img width="638" alt="Question 4" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%204.png">
 </p>
+
+## Android Version
 <p align="center">
 <img width="638" alt="Question 5" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%205.png">
 </p>
+
+## Changes Over Time
 <p align="center">
 <img width="638" alt="Question 6" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%206.png">
 </p>
+
+## Genres
 <p align="center">
 <img width="638" alt="Question 7" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%207.png">
 </p>
+
+
+
+
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- Paragraph on the left side (40% width) -->
+    <td style="width: 40%; vertical-align: top; padding-right: 10px;">
+      <p>
+        - The <strong>Family</strong> category leads with the highest installations, contributing approximately <strong>18%</strong> of total installs, followed by <strong>Games</strong> (10.5%) and <strong>Tools</strong> (8%).<br>
+        - Categories like <strong>Medical</strong> and <strong>Business</strong> also show significant numbers, while other categories contribute smaller shares.<br>
+        - A similar trend is observed in the number of reviews, with the <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> categories receiving the most user feedback.
+      </p>
+    </td>
+    <!-- Image on the right side (60% width) -->
+    <td style="width: 60%; text-align: center;">
+      <img style="width: 100%; height: auto; object-fit: cover;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%207.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+  </tr>
+</table>
