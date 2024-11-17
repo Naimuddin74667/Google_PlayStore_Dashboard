@@ -61,15 +61,14 @@ On the other hand, users show minimal interest in paying for apps in categories 
 Categories like Kids, Adults, and Unrated apps have the lowest installation counts.
 
 ## App Size Impact
-
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- Paragraph on the left side (40% width) -->
     <td style="width: 40%; vertical-align: top; padding-right: 10px;">
       <p>
-        - The <strong>Family</strong> category leads with the highest installations, contributing approximately <strong>18%</strong> of total installs, followed by <strong>Games</strong> (10.5%) and <strong>Tools</strong> (8%).<br>
-        - Categories like <strong>Medical</strong> and <strong>Business</strong> also show significant numbers, while other categories contribute smaller shares.<br>
-        - A similar trend is observed in the number of reviews, with the <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> categories receiving the most user feedback.
+        - Apps in the <strong>Medium</strong> size category dominate in terms of both popularity and availability, with the highest number of installations and the most apps. <br>
+        - <strong>Small</strong> and <strong>Large</strong> size apps follow, while "Very Small" size apps have the lowest installations and availability. <br>
+        - Reviews and ratings show a consistent trend across all size categories, with <strong>Medium</strong> size apps contributing approximately <strong>36%</strong>, followed by <strong>Small</strong> at <strong>21%</strong>, and "Very Small" apps having the lowest share.
       </p>
     </td>
     <!-- Image on the right side (60% width) -->
@@ -79,15 +78,12 @@ Categories like Kids, Adults, and Unrated apps have the lowest installation coun
   </tr>
 </table>
 
-
-
-
-
-
-
 ## Popular App Categories
 <table>
   <tr>
+    <td>
+      <img style="max-width: 800px; height: auto;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%202.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
     <td>
       <p>
         - The <strong>Family</strong> category leads with the highest installations, contributing approximately <strong>18%</strong> of total installs, followed by <strong>Games</strong> (10.5%) and <strong>Tools</strong> (8%). <br>
@@ -95,50 +91,95 @@ Categories like Kids, Adults, and Unrated apps have the lowest installation coun
         - A similar trend is observed in the number of reviews, with the <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> categories receiving the most user feedback.
       </p>
     </td>
-    <td>
-      <img style="max-width: 800px; height: auto;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%202.png" alt="Power BI Page Screenshot for Popular Categories">
-    </td>
+    
   </tr>
 </table>
 
 ## Free Vs Paid Apps
-<p align="center">
-<img width="638" alt="Question 3" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%203.png">
-</p>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- Paragraph on the left side (40% width) -->
+    <td style="width: 40%; vertical-align: top; padding-right: 10px;">
+      <p> 
+        - Only <strong>7.38%</strong> of users prefer to pay for apps, and this is reflected in the installation numbers, with free apps dominating the market.<br> - Users are most willing to pay for <strong>Medical</strong> apps (24% paid) and <strong>Personalization</strong> apps (21%).<br> 
+        - Categories such as <strong>Weather</strong> and <strong>Books & Reference</strong> also see moderate willingness to pay.<br> 
+        - Minimal interest is observed in paying for apps in categories like <strong>Beauty</strong>, <strong>Comics</strong>, <strong>News & Magazines</strong>, <strong>Social</strong>, and <strong>Shopping</strong>. 
+      </p>
+    </td>
+    <!-- Image on the right side (60% width) -->
+    <td style="width: 60%; text-align: center;">
+      <img style="width: 100%; height: auto; object-fit: cover;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%203.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+  </tr>
+</table>
 
 ## Content Types
-<p align="center">
-<img width="638" alt="Question 4" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%204.png">
+<table>
+  <tr>
+    <td>
+      <img style="max-width: 800px; height: auto;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%204.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+    <td>
+      <p>
+  - The <strong>All Ages</strong> content type has the highest installations (>8,000), followed by <strong>Teenage</strong> (~1,500) and <strong>Mature (17+)</strong> (~1,000). Adults and Unrated have the lowest installs.<br>
+  - Reviews follow a similar pattern, with <strong>All Ages</strong> receiving the most feedback.<br>
+  - Most apps have <strong>4-star ratings</strong>, followed by <strong>3-star</strong>, while <strong>5-star ratings</strong> are rare. Unrated content also trends toward <strong>4-star</strong> ratings or none.
 </p>
+    </td>
+    
+  </tr>
+</table>
+
+
 
 ## Android Version
-<p align="center">
-<img width="638" alt="Question 5" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%205.png">
-</p>
-
-## Changes Over Time
-<p align="center">
-<img width="638" alt="Question 6" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%206.png">
-</p>
-
-## Genres
-<p align="center">
-<img width="638" alt="Question 7" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%207.png">
-</p>
-
-
-
-
-
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- Paragraph on the left side (40% width) -->
     <td style="width: 40%; vertical-align: top; padding-right: 10px;">
       <p>
-        - The <strong>Family</strong> category leads with the highest installations, contributing approximately <strong>18%</strong> of total installs, followed by <strong>Games</strong> (10.5%) and <strong>Tools</strong> (8%).<br>
-        - Categories like <strong>Medical</strong> and <strong>Business</strong> also show significant numbers, while other categories contribute smaller shares.<br>
-        - A similar trend is observed in the number of reviews, with the <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> categories receiving the most user feedback.
-      </p>
+  - <strong>Android 4.x</strong> is the most common version, compatible with <strong>64.2%</strong> of apps, followed by <strong>Varies</strong> and <strong>Android 2.x</strong>, both around <strong>12.5%</strong>.<br>
+  - Newer versions like <strong>5.x</strong>, <strong>6.x</strong>, <strong>7.x</strong>, and <strong>8.x</strong> have minimal app support.<br>
+  - Apps supporting <strong>Android 4.x</strong> dominate installations with over <strong>6,000 installs</strong>, while other versions lag behind.<br>
+  - Categories like <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> have the largest app distributions, mostly aligning with <strong>Android 4.x</strong>.<br>
+</p>
+    </td>
+    <!-- Image on the right side (60% width) -->
+    <td style="width: 60%; text-align: center;">
+      <img style="width: 100%; height: auto; object-fit: cover;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%205.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+  </tr>
+</table>
+
+## Changes Over Time
+<table>
+  <tr>
+    <td>
+      <img style="max-width: 800px; height: auto;" src="https://github.com/Naimuddin74667/Google_PlayStore_Dashboard/blob/main/Visualization/Question%206.png" alt="Power BI Page Screenshot for Popular Categories">
+    </td>
+    <td>
+      <p>
+  - The number of installations and apps has grown significantly over time, with a sharp rise observed in 2018.<br>
+  - The <strong>All Ages</strong> content type dominates in terms of app count across all years, followed by <strong>Teenage</strong> and <strong>Mature (17+)</strong> categories. Adults (18+) and Unrated categories show minimal growth.<br>
+  - Categories like <strong>Family</strong>, <strong>Games</strong>, and <strong>Tools</strong> exhibit the highest increase in app count, particularly in recent years, indicating their growing popularity.
+</p>
+    </td>
+    
+  </tr>
+</table>
+
+
+
+## Genres
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- Paragraph on the left side (40% width) -->
+    <td style="width: 40%; vertical-align: top; padding-right: 10px;">
+      <p>
+  - Among primary genres, <strong>Tools</strong>, <strong>Entertainment</strong>, and <strong>Education</strong> lead in the number of apps, indicating their popularity.<br>
+  - Secondary genres like <strong>Music & Video</strong> and <strong>Education</strong> dominate in terms of installations, showing high user engagement.<br>
+  - Genres such as <strong>Creativity</strong> and <strong>Brain Games</strong> have fewer installations, suggesting a niche audience compared to more popular genres.
+</p>
     </td>
     <!-- Image on the right side (60% width) -->
     <td style="width: 60%; text-align: center;">
